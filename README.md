@@ -1,5 +1,4 @@
 # CODSOFT
-# CODSOFT AI Internship
 
 This repository contains the tasks completed for the CODSOFT Artificial Intelligence Internship.
 
