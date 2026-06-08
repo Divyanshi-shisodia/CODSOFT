@@ -1,0 +1,7 @@
+You: date
+CampusBot: Today's Date: 08-06-2026
+You: cgpa
+You: bye
+You: internship
+CampusBot: Build projects and upload them to GitHub.
+You: bye
